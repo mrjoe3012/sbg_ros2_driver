@@ -8,7 +8,7 @@ def generate_launch_description():
 		get_package_share_directory('sbg_driver'),
 		'config',
 		'example',
-		'ellipse_E_default.yaml'
+		'ellipse_N_default.yaml'
 	)
 
 	return LaunchDescription([
